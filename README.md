@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Andrew 👋
+
+I'm a new grad developer from Canada. I have experience building web applications and services. I also enjoy learning about cutting edge technology in my free time.
+
+With all the new hype around AI I’m currently learning various topics in the field and how to effectively use the tools.
+
+I recently worked on a Wildlife Categorization Tool which you can view below and interact with <a href="https://tandrewng.github.io/Wildlife-Categorizer-Web/">here<a>
 
 <!--
 **tandrewng/tandrewng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
